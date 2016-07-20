@@ -3,6 +3,10 @@
 Created on Tue Jul 19 20:14:12 2016
 
 @author: chen
+
+This is a python3 neural network chagned from the- 
+online book <Neural networks and deep learning>
+http://neuralnetworksanddeeplearning.com/
 """
 
 #myneural
